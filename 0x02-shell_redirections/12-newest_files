@@ -1,10 +1,2 @@
-12-newest_files
-README.md
-11-directories
-10-no_more_js
-iacta
-9-duplicate_last_line
-8-cwd_state
-ls_cwd_content
-6-third_line
-5-firstlines
+#!/bin/bash
+ls -t1 | head -n 10
